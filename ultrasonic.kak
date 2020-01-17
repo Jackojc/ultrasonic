@@ -1,22 +1,22 @@
 # ultrasonic theme
 
 # Code
-face global value      rgb:fc8702+b
-face global type       rgb:752dfc
+face global value      rgb:959299
+face global type       rgb:05aefc
 face global identifier rgb:555555,rgb:555555
 face global string     rgb:ffff00+b
 face global error      rgb:c3bf9f+b
-face global keyword    rgb:f42800
+face global keyword    rgb:ed5436+b
 face global operator   rgb:ff00ff
-face global attribute  rgb:56547f
-face global comment    rgb:606060+i
+face global attribute  rgb:055bfc
+face global comment    rgb:707070
 face global builtin    rgb:e74c3c+b
-face global function   rgb:02fc4d+b
-face global namespace  rgb:02fc90,default
+face global function   rgb:41f27c
+face global namespace  rgb:4df241,default
 
 # #include <...>
 face global module  rgb:ffff00+b
-face global meta    rgb:f42800+b
+face global meta    rgb:f42800
 
 
 
@@ -51,7 +51,7 @@ face  global  SecondaryCursorEol   rgb:252525,rgb:588c58
 
 face  global  MatchingChar         default,rgb:077557+b
 face  global  Search               default,rgb:333333
-face  global  Whitespace           rgb:171717+f
+face  global  Whitespace           rgb:131313+f
 
 face  global  LineNumbers          rgb:605958
 face  global  LineNumberCursor     rgb:ffff00+b
